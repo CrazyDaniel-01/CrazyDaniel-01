@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CRAZYDAИIEL</h1>
+<h1 align="center">Hi 👋, I'm CrazyDaиiel</h1>
 <h3 align="center">A Very Creative and Passionate Full-Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
